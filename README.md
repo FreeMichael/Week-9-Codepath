@@ -27,5 +27,6 @@ Having these logs are crucial especially in a business environment. This is some
 * Issues:
 
   An issue I ran into was the github repo that wasn't working anymore, I then saw my professor had posted where to find the repo that would work. This then solved my issue. 
+  
   Second something I would be interested in searching further is to learn how to work with splunk. Seeing all the data in the .json was incredible and overwhelming; it would be nice to have a tool that could parse through all that data and bring back what I want.
 
