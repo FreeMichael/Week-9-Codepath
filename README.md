@@ -8,7 +8,7 @@ By running the command above it allows ingress traffic through the ports between
 
 Once the directions for setting up the mhn-admin vm is complete we ssh in and install git to download the github repo that will be used in setting up our honeypot. We exit the terminal to get out of the ssh connection and back to the local directory, then we set up the honeypot firewall rules and create the honeypot vm just like we did for the mhn-admin vm.
 
-We then can go to the GCP site and look at the attacks that have already began to come in. Along with GCP to keep track of intrusions, we also have a .json file that logs all the attacks that have occurred.
+We then can go to the GCP site and look at the attacks that have already began to come in. Along with GCP to keep track of intrusions, we also have a .json file that logs all the attacks that have occurred (Which at this point the number of attacks are 7727).
 
 Looking at this .json file we find that these commonly targeted ports were attacked:
 
