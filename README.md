@@ -24,7 +24,8 @@ Port 1433 "Microsoft SQL Server---- # Attacks: 17
 ```
 Having these logs are crucial especially in a business environment. This is some small server set up, imagine a large corporation that has a target on its back; one can only imagine how many attacks these people would have to deal with.
 
-*Issues:
+* Issues:
+
   An issue I ran into was the github repo that wasn't working anymore, I then saw my professor had posted where to find the repo that would work. This then solved my issue. 
   Second something I would be interested in searching further is to learn how to work with splunk. Seeing all the data in the .json was incredible and overwhelming; it would be nice to have a tool that could parse through all that data and bring back what I want.
 
